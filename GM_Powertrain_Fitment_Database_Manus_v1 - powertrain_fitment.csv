@@ -1,9 +1,0 @@
-engine,rpo_code,transmission,ecm_model,tcm_model,application_make,application_model,application_year_from,application_year_to,platform,drivetrain,source_name,source_url,verification_status,notes,
-LM7,LM7,4L60E,P01,None,Chevrolet,Silverado 1500,1999,2007,GMT800,RWD/AWD,GM,https://help.summitracing.com/knowledgebase/article/HE-04818/en-us,Verified,Core fitment baseline,
-LM7,LM7,4L60E,P01,None,GMC,Sierra 1500,1999,2007,GMT800,RWD/AWD,GM,https://help.summitracing.com/knowledgebase/article/HE-04818/en-us,Verified,Core fitment baseline,
-LM7,LM7,4L60E,P01,None,Chevrolet,Tahoe,1999,2006,GMT800,RWD/AWD,GM,https://help.summitracing.com/knowledgebase/article/HE-04818/en-us,Verified,SUV application,
-LM7,LM7,4L60E,P01,None,GMC,Yukon,1999,2006,GMT800,RWD/AWD,GM,https://help.summitracing.com/knowledgebase/article/HE-04818/en-us,Verified,SUV application,
-LS3,LS3,6L80E,E38,T43,Chevrolet,Camaro SS,2010,2015,GMT,,RWD,GM Performance,https://www.chevrolet.com/performance,Verified,Modern LS platform
-LS2,LS2,4L65E,E40,None,Chevrolet,Corvette C6,2005,2007,Y-body,RWD,GM,https://www.chevrolet.com/performance,Verified,Sports platform,
-LQ4,LQ4,4L80E,P59,None,Chevrolet,Silverado 2500,1999,2007,GMT800,RWD,GM,https://gmauthority.com,Verified,Heavy duty setup,
-LQ9,LQ9,4L65E,P59,None,Cadillac,Escalade,2002,2006,GMT800,AWD,GM,https://gmauthority.com,Verified,High output truck,
